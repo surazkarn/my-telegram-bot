@@ -4,7 +4,7 @@ let internships = `
 
 `;
 
-const bot = new Telegraf('5815503030:AAFWqglxry1y8_VnGw2EkyFxBKxiRfAp9oE');
+const bot = new Telegraf('');
 
 // http://t.me/suraz_ka_bot
 bot.start((ctx) => ctx.reply('Welcome to new bot from suraz'));
